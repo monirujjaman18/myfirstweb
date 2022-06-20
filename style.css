@@ -1,0 +1,18 @@
+/*--top h1--*/
+h1{
+    font-size:120px;
+color:rgb(247, 20, 20);
+}
+marquee{
+    font-size: 100px;
+    color:rgba(101, 14, 240, 0.822)
+}
+img{ font-size:10px;}
+h2{
+    font-size :50px;
+    color:chartreuse
+}
+center{
+    font-size:60px;
+    color:cyan
+}
